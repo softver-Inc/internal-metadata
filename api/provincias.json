@@ -1,9 +1,5 @@
 {
 	"data": [
-    { 
-      "codigo": "0",
-      "nombre": "None"
-    },
 		{
 			"codigo": 1,
 			"nombre": "Azua"
